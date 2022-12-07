@@ -348,3 +348,17 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+PromapDatabaseUpdater 8/bin
+PromapDatabaseUpdater 8/obj
+PromapDatabaseUpdater 8/Properties
+PromapDatabaseUpdater 8/App.config
+PromapDatabaseUpdater 8/Form1.resx
+PromapDatabaseUpdater 8/Program.cs
+PromapDatabaseUpdater 8/PromapDatabase.mdb
+PromapDatabaseUpdater 8/PromapDatabaseDataSet.Designer.cs
+PromapDatabaseUpdater 8/PromapDatabaseDataSet.xsc
+PromapDatabaseUpdater 8/PromapDatabaseDataSet.xsd
+PromapDatabaseUpdater 8/PromapDatabaseDataSet.xss
+PromapDatabaseUpdater 8/PromapDatabaseUpdater 8.csproj
+PromapDatabaseUpdater 8.sln
