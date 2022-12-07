@@ -1,2 +1,37 @@
 # PromapDatabaseUpdater
 A program to update Promap application's database
+
+A class to update a MS Access database.
+__________________________________________________________________________________________________________
+getgetEcus method:
+Reads the data from database and returns it as DataTable to show on a GridView.
+__________________________________________________________________________________________________________
+addEcuBtnClick method:
+Inserts a new ECU as a database record.
+__________________________________________________________________________________________________________
+showMessage method:
+Shows a message box.
+__________________________________________________________________________________________________________
+editEcuBtnClick method:
+Updates a record of database.
+__________________________________________________________________________________________________________
+deleteEcuBtnClick method:
+Deletes a record of database.
+__________________________________________________________________________________________________________
+ecusListCellClick method:
+Shows data of a record in the TextBoxes.
+__________________________________________________________________________________________________________
+TextInit methods:
+When a record is selected, this method takes the value of the cells and assign them to the TextBoxes.
+__________________________________________________________________________________________________________
+ecuDataToAdd method:
+Takes the TextBoxes value and assigns them to the corresponding variable to be added to the database.
+__________________________________________________________________________________________________________
+ecuDataToEdit method:
+Takes the necessary TextBoxes value from selected record and assigns them to the corresponding variable to be updated in the database.
+__________________________________________________________________________________________________________
+clearTextBoxValues method:
+Clears the text inside all TextBoxes.
+__________________________________________________________________________________________________________
+showTableBtnClick method:
+Displays the database on the GridView wehn "Show Table" button is clicked on.

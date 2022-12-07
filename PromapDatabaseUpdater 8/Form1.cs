@@ -15,7 +15,6 @@ namespace PromapDatabaseUpdater_8
 {
     public partial class Form1 : Form
     {
-
         private static string constr = "Provider=Microsoft.Jet.OLEDB.4.0; Data Source = E:/User/work/Remap/source - Developing/ProMap 20190911(Ver 1)- Source/67 ProMap 991107 zarvan v5.2.0/ProMap/PromapDatabase.mdb";
         private OleDbConnection dbcon;
         private string query = "";
