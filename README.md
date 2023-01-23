@@ -1,7 +1,5 @@
 # PromapDatabaseUpdater
-A program to update Promap application's database
-
-A class to update a MS Access database.
+A WinForm application to update MS Access database
 __________________________________________________________________________________________________________
 getgetEcus method:
 Reads the data from database and returns it as DataTable to show on a GridView.
